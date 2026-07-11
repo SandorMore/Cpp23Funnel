@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Cpp23Funnel.vcxproj" Id="7ca3ca36-fc95-422b-9ade-678eb335e3ab" />
+</Solution>
